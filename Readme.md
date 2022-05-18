@@ -15,4 +15,4 @@ La descripción de los archivos se da a continuación:
 5. El resultado final se resume en [dashboard_h1.pbix](/dashboard_h1.pbix), archivo que puede ser visualizado en Power BI.
 
 ## Dash board online
-[Ver dashboard online](https://app.powerbi.com/view?r=eyJrIjoiOTQxYWQyNzAtNTExNC00MmMxLWE0MGYtZTUzOWNhMjc3OWNjIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)
+[Ver dashboard online](https://app.powerbi.com/view?r=eyJrIjoiOTQxYWQyNzAtNTExNC00MmMxLWE0MGYtZTUzOWNhMjc3OWNjIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection)
